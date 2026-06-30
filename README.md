@@ -6,9 +6,9 @@
 
 Track your daily meals, monitor your nutrition, and build healthier habits with a clean, intuitive mobile experience.
 
-![React Native](https://img.shields.io/badge/React%20Native-0.82-61DAFB?style=for-the-badge\&logo=react)
-![Expo](https://img.shields.io/badge/Expo-SDK%2055-000020?style=for-the-badge\&logo=expo)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge\&logo=typescript)
+![React Native](https://img.shields.io/badge/React%20Native-0.85-61DAFB?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-SDK%2056-000020?style=for-the-badge&logo=expo)
+![TypeScript](https://img.shields.io/badge/TypeScript-6.x-3178C6?style=for-the-badge&logo=typescript)
 
 </div>
 
