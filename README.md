@@ -93,19 +93,21 @@ or
 Clone the repository:
 
 ```bash
-git clone https://github.com/varunDarshan356/trackbite.git
-```
-
-Navigate into the project:
-
-```bash
-cd trackbite
+git clone https://github.com/varunDarshan356/TrackBite.git
 ```
 
 Install dependencies:
 
 ```bash
 npm install
+```
+
+### Run the App
+
+Start the Expo development server:
+
+```bash
+npx expo start
 ```
 
 ---
